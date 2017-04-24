@@ -1,4 +1,12 @@
-# Hey Friends
+---
+title: Hey Friends
+tags: '我给你讲个故事吧'
+categories: '似水年华'
+permalink: hey-friends-2
+id: 10023
+date: 2016-07-23 00:34:54
+---
+
 
 吃一口饭，喝一杯水，夜晚抬头看星星与月亮，随手拍死一个蚊子；
 听一首歌，看一场电影，记录下来感动瞬间，分享到朋友圈；

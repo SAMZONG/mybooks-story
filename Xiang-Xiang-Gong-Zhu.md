@@ -1,4 +1,11 @@
-# XIANG XIANG GONG ZHU
+---
+title: 香香公主
+tags: '我给你讲个故事吧'
+categories: '似水年华'
+permalink: XIANG-XIANG-GONG-ZHU
+id: 10023
+date: 2015-11-04 00:34:54
+---
 
 ​       我喜欢你。
 
